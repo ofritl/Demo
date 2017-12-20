@@ -39,4 +39,4 @@ To embed an image:
 
 Or save the image in “image” directory within your repo and:
 
-![Image of github's cat](/images/github-octocat[1].png)
+![Image of github's cat](/images/github-octocat.png)
